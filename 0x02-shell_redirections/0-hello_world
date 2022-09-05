@@ -1,3 +1,2 @@
 #!/bin/bash
-STRING="Hello, World"
-echo -e $STRING
+echo="Hello, World"
